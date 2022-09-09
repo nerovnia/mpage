@@ -2,11 +2,15 @@
 
 <strong> Hi there, I'm Volodymyr </strong>
 
-    - telescope I’m currently working on a lot of different stuff
-    - seedling I’m currently learning everything I can get my hands on
-    - thinking I’m looking for help with finding more time in a single day
-    - mailbox How to reach me: alexander.repeta@gmail.com
-    - zap Fun fact: I love what I do - code and help people learn coding
+&#9745; I’m currently working on a lot of different stuff
+
+&#9745; I’m currently learning everything I can get my hands on
+
+&#9745; I’m looking for help with finding more time in a single day
+
+&#9745; How to reach me: nerv@i.ua
+
+&#9745; Fun fact: I love what I do - code and help people learn coding
 
 ### My stack and tools
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="50" height="50">
